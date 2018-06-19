@@ -152,7 +152,7 @@
   ],
   "compiler": {
     "name": "@stencil/core",
-    "version": "0.9.1",
+    "version": "0.9.7",
     "typescriptVersion": "2.8.3"
   },
   "bundles": []
