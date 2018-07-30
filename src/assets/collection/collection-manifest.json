@@ -56,6 +56,7 @@
         "ion-checkbox",
         "ion-chip",
         "ion-chip-button",
+        "ion-chip-icon",
         "ion-col",
         "ion-content",
         "ion-datetime",
@@ -126,7 +127,6 @@
         "ion-slides",
         "ion-spinner",
         "ion-split-pane",
-        "ion-status-tap",
         "ion-tab",
         "ion-tab-button",
         "ion-tabbar",
@@ -152,8 +152,8 @@
   ],
   "compiler": {
     "name": "@stencil/core",
-    "version": "0.9.7",
-    "typescriptVersion": "2.8.3"
+    "version": "0.10.10",
+    "typescriptVersion": "2.9.2"
   },
   "bundles": []
 }

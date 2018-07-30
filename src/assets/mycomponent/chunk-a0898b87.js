@@ -1,0 +1,2 @@
+/*! Built with http://stenciljs.com */
+const{h:n}=window.mycomponent;function o(n,o){return!!o.closest(n)}function e(n){return n?{"ion-color":!0,[`ion-color-${n}`]:!0}:null}async function t(n,o,e,t){if(o&&"#"!==o[0]&&-1===o.indexOf("://")){const r=n.document.querySelector("ion-router");if(r)return e&&e.preventDefault(),await r.componentOnReady(),r.push(o,t)}return Promise.resolve()}export{e as a,o as b,t as c};
