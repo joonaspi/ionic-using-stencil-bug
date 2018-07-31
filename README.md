@@ -9,11 +9,9 @@ Steps to demonstrate the bug mentioned in https://github.com/ionic-team/stencil/
 3. See src/pages/home.html page how it contains a Web Component and also usage of <ion-input>
 4. Run ionic serve
 
-----------------------------------------------
-
-Which will render the following showcasing the problem:
+Which will render the following showcasing the problem: https://raw.githubusercontent.com/joonaspi/ionic-using-stencil-bug/master/bug.png
 
 Interesting part of the problem:
 5. Edit /src/index.html by removing "<script src='assets/mycomponent.js'></script>"
-6. The page will refresh and now the bug does not occur: 
+6. The page will refresh and now the bug does not occur: https://raw.githubusercontent.com/joonaspi/ionic-using-stencil-bug/master/without_bug.png
 
